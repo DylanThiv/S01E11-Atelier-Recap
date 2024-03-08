@@ -5,14 +5,17 @@
 
 [Accueil](README.md) - [Projets](projets.md) - [CV](CV.md) - [Contact](Contact.md)
 
-## Mes projets
+## Contact
 
-|Client|Dates|Technologies|Lien|
-|:--------:|:--------------:|:--------------:|:--------------:|
-|Microsoft    |2022           |HTML, SASS, JavaScript         | [Microsoft](https://oclock.io/) |
-|Google     |2021     |Node.js        | [Google](https://oclock.io/) |
-|Cristiano Ronaldo     |2017        |SUUUU        | [Arabie Saoudite](https://oclock.io/) |
+Suivez-moi, on est bien, allez vous aurez des petits bonbons :)
 
+✏️ [dylan.thivenin@oclock.school](dylan.thivenin@oclock.school)
+
+📞 06 10 11 12 13
+
+🎯 [LinkedIn](https://www.linkedin.com/in/dylan-thivenin-57b61874)
+
+🦜 [X ou Twitter pour les intimes](https://twitter.com/DylanThiv)
 
 ---
 © 2K24 - Dylan THIVENIN - [Envoyer un mail](dylan.thivenin@oclock.school)

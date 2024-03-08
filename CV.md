@@ -5,9 +5,33 @@
 
 [Accueil](README.md) - [Projets](projets.md) - [CV](CV.md) - [Contact](Contact.md)
 
-## Présentation
+## CV
 
-Hello c'est moi, ce sera pas une grosse présentation parce qu'on a encore du boulot derrière, merci d'être passé :)
+**Dylan Thivenin**
+
+33 rue des chandeliers
+
+69000 Saint-Pierre-La-Nouille
+
+ [dylan.thivenin@oclock.school](dylan.thivenin@oclock.school)
+
+**Expériences**
+
+* Partie 1
+* Partie 2
+* Partie 3
+
+**Formation**
+
+* Etape 1
+* Etape 2
+* Etape 3
+
+**Détournement**
+
+* On 
+* Rigole
+* Biennnng
 
 ---
-© 2K24 - Dylan THIVENIN - [Envoyer un mail](dylan.thivenin@oclock.school/)
+© 2K24 - Dylan THIVENIN - [Envoyer un mail](dylan.thivenin@oclock.school)
