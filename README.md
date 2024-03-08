@@ -3,7 +3,7 @@
 
 *Développeur web en devenir, grâce à la formidable école O'Clock <3*
 
-[Mon CV / Lettre / Contact](https://oclock.io/)
+[Mon CV / Lettre / Contact](https://oclock.io/) - Consultez [la page projets ](<projets.md>)
 
 ## Présentation
 
